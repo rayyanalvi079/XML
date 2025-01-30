@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<persondata>
+<user id="1">
+<fname>rayyan</fname>
+<lname>alvi</lname>
+<email>rayyanalvi@gmail.com</email>
+</user>
+<user id="2">
+<fname>hassan ahmed</fname>
+<lname>ahmed</lname>
+<email>ahmed2@gmail.com</email>
+</user>
+<user id="3">
+<fname>umar ahmed</fname>
+<lname>madni</lname>
+<email>madni3@gmail.com</email>
+</user>
+</persondata>
+
