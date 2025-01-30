@@ -1,21 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<persondata>
-<user id="1" xmlns:madnichannel="https://madnichannel.com/mynamespace">
+<persondata
+"https://pookie.com/mynamespace"
+"https://hassan2.com/mynamespace"
+"https://madnichannel.com/mynamespace"
+>
+
+<user id="1">
 
 <madnichannel:fname>rayyan</madnichannel:fname>
 <madnichannel:lname>alvi</madnichannel:lname>
 <madnichannel:email>rayyanalvi@gmail.com</madnichannel:email>
 </user>
-<user id="2" xmlns:hassan2="https://hassan2.com/mynamespace">
+<user id="2">
 <hassan2:fname>hassan ahmed</hassan2:fname>
 <hassan2:lname>ahmed</hassan2:lname>
 <hassan2:email>ahmed2@gmail.com</hassan2:email>
 </user>
-<user id="3" xmlns:pookie="https://pookie.com/mynamespace">
+<user id="3">
 <pookie:fname>umar ahmed</pookie:fname>
 <pookie:lname>madni</pookie:lname>
-<pookie:email>madni3@gmail.com</pookieemail>
+<pookie:email>madni3@gmail.com</pookie:email>
 </user>
 </persondata>
 
